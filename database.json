@@ -1,0 +1,61 @@
+
+ "accounts": [
+  {
+   "name": "nitro",
+   "price": 10000,
+   "tax": 10527,
+   "emails": [
+    "https://discord.com/billing/promotions/q3XrZPpbn3M83CJxrzHHDbu8",
+    "https://discord.com/billing/promotions/q3n2wEF6eGdQPPtwmAmWV2qf",
+    "https://discord.com/billing/promotions/YzkB65yKWRDTj2pqhPmke4dq",
+    "https://discord.com/billing/promotions/q3xeugAWfWN9g8RuQ6kUvKef",
+    "https://discord.com/billing/promotions/yzmkyGKhSBpDuhfbAmgmj6sb",
+    "https://discord.com/billing/promotions/q49hnB5Z4warXZe3NgRG7C53",
+    "https://discord.com/billing/promotions/q4FGdv3Uh8m3kjztCzwMjHK7",
+    "https://discord.com/billing/promotions/q4SngyV9pSaYnjtDy8jjr8ay",
+    "https://discord.com/billing/promotions/yzqwExKVrzcBuY5ec8kFAXEH",
+    "https://discord.com/billing/promotions/q4SngyV9pSaYnjtDy8jjr8ay",
+    "https://discord.com/billing/promotions/m7NhFD6Jxf2afdWGhAYsW2WA"
+   ]
+  },
+  {
+   "name": "systemprojcet",
+   "price": 50000,
+   "tax": 52632,
+   "emails": [
+    ""
+   ]
+  },
+  {
+   "name": "steam",
+   "price": 3158,
+   "tax": 3325,
+   "emails": [
+    "zsadetsky7:twinky143",
+    "mnoles1210:Draconis12",
+    "Acc : rotomavin",
+    "Pass : amanda401"
+   ]
+  },
+  {
+   "name": "noting",
+   "price": 2,
+   "tax": 3,
+   "emails": []
+  },
+  {
+   "name": "notind",
+   "price": 1,
+   "tax": 2,
+   "emails": []
+  }
+ ],
+ "status": "open",
+ "admins": [
+  "963878764851384351"
+ ],
+ "ch": "985954078649614366",
+ "notif": "448597666658779146",
+ "blacklist": [],
+ "buy": "all"
+}
