@@ -5,7 +5,7 @@ const app = express();
 app.listen(() => console.log("Server started"));
 
 app.get("/", (req, res) => {
-  res.send("POWER")
+  res.send("MABA")
 })
 //[0]
 app.use('/ping', (req, res) => {
